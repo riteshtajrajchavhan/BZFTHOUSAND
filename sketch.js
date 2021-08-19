@@ -8,7 +8,7 @@ var once = 5;
 var occur = 2;
 var beat = 5;//enemy can't beat
 var move = 5;//player movement animation
-var bullets = 40;//player bullets 
+var bullets = 40;//player bullets
 var fire = 5;// enemies can't shoot while player is shooting
 var down = 1;//boss use
 var bossoccur = 5;//boss use
@@ -135,7 +135,7 @@ function setup() {
 
 
 
-//alert("If the game is laging so please restart the game and please give ratings because this is my first game so please tell me how it is")
+alert("If the game is laging so please restart the game and please give ratings because this is my first game so please tell me how it is")
 
 }
 
